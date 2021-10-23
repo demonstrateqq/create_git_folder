@@ -1,0 +1,8 @@
+# Привет, Дима! Я объясняю тебе gitignore
+venv/
+*.py[cod]
+ignored_file.xml
+ign/rules.json
+
+
+
